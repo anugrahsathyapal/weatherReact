@@ -1,0 +1,16 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body{
+  height: 100vh;
+  /* background: rgb(210, 188, 255); */
+  background-image: url("https://images.pexels.com/photos/158163/clouds-cloudporn-weather-lookup-158163.jpeg?cs=srgb&dl=pexels-pixabay-158163.jpg&fm=jpg");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+ justify-content: center;
+}
